@@ -1,4 +1,4 @@
-# 🐍 Python Learning Projects
+# 🐍 Projetos de aprendizado em Python
 
 Este repositório reúne meus projetos, exercícios e experimentos desenvolvidos durante meu aprendizado em Python. O objetivo é praticar conceitos fundamentais, explorar bibliotecas, resolver desafios de programação e acompanhar minha evolução na linguagem.
 
